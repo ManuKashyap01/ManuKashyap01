@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManuKashyap01
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Game development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me kashyap.manu200201@gmail.com
 
 <!---
