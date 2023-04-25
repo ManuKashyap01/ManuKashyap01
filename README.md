@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManuKashyap01
 - 👀 I’m interested in Programming and Software Development
-- 🌱 I’m currently learning web3 development
-- 💞️ I’m looking to collaborate on web3 development
+- 🌱 I’m currently learning full-stack web development
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me kashyap.manu200201@gmail.com
 
 <!---
