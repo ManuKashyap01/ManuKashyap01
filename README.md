@@ -26,13 +26,6 @@ Hello! I'm a passionate and skilled software developer with a strong background 
 
 **Description:** Fullstack blog post application. Tech Stack - React.js, HTML, CSS, JavaScript, TailwindCSS, Node.js, Express.js, MySQL. User authentication along with CRUD operations on Blog posts. Authorization controls to edit and delete Blog posts.
 
-### Project 2: [Creatify](https://creatify1.netlify.app/)
-![screencapture-creatify1-netlify-app-2023-06-04-21_22_441](https://github.com/ManuKashyap01/ManuKashyap01/assets/76866512/c9dd21a8-02bd-4893-be38-53f30731999c)
-
-<!-- Replace 'link_to_project2_image' with the actual image URL -->
-
-**Description:** Fullstack Ai image generator. Tech Stack - React.js, HTML, CSS, JavaScript, TailwindCSS, Node.js, Express.js, MongoDB. Used OpenAI image generation model to generate images using a prompt. Ability to create and share posts.
-
 ## Contact
 
 - GitHub: [https://github.com/ManuKashyap01](https://github.com/ManuKashyap01)
