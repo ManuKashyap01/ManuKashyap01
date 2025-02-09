@@ -7,30 +7,22 @@ You can click the Preview link to take a look at your changes.
 
 ## About Me
 
-Hello! I'm a passionate and skilled software developer with a strong background in Frontend and Backend web technologies. My journey in the world of programming goes 1 year back, and I have been continuously honing my skills ever since. I enjoy solving difficult problems and turning creative concepts into real-world solutions.
+I am a passionate software developer with a strong foundation in C programming, web development, and data structures. My enthusiasm for data science has led me to develop SQL, Python, and Machine learning expertise. With a Master's in Data Science and experience as a Software Developer at Corning Inc., I specialize in Python, Machine Learning, web development, and data analysis. I enjoy solving problems and bringing ideas to life through technology.
 
 ## Skills
 
+- **Data Science:** Database Management System, SQL, Excel
 - **Programming Languages:** JavaScript, C++, Python
 - **Web Development:** HTML, CSS, React.js, Node.js, Express.js
 - **Database:** SQL, MongoDB
 - **Version Control:** Git, GitHub
 - **UI/UX Design:** Figma
 
-## Projects
-
-### Project 1: [Blogify](https://blogigy.netlify.app/)
-<img width="948" alt="screencapture-blogigy-netlify-app-2023-06-11-15_56_06copy1" src="https://github.com/ManuKashyap01/ManuKashyap01/assets/76866512/8852c9c4-4084-4223-bdd8-5595f4286b7e">
-
- <!-- Replace 'link_to_project1_image' with the actual image URL -->
-
-**Description:** Fullstack blog post application. Tech Stack - React.js, HTML, CSS, JavaScript, TailwindCSS, Node.js, Express.js, MySQL. User authentication along with CRUD operations on Blog posts. Authorization controls to edit and delete Blog posts.
-
 ## Contact
 
+- Portfolio: [https://manu-k.netlify.app/](https://manu-k.netlify.app/)
 - GitHub: [https://github.com/ManuKashyap01](https://github.com/ManuKashyap01)
 - LinkedIn: [https://www.linkedin.com/in/manu-kashyap/](https://www.linkedin.com/in/manu-kashyap/)
 - Email: [kashyap.manu200201@gmail.com](mailto:kashyap.manu200201@gmail.com)
 
 Feel free to reach out to me if you have any questions, or project ideas, or just want to connect. I'm open to new opportunities and collaborations. Let's create something amazing together! 🚀
-
